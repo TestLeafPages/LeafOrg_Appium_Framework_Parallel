@@ -477,7 +477,7 @@ public class MobileWrapper  extends Reporter{
 		multiTouch.perform();
 	}
 
-	// using pointerinput
+	// using pointer input
 	public void ZoomUsingPointerInput() {
 
 		PointerInput finger = new PointerInput(PointerInput.Kind.TOUCH, "finger");
